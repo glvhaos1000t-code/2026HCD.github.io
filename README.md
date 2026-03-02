@@ -63,9 +63,6 @@
     <nav class="fixed w-full bg-white/80 backdrop-blur-md z-50 border-b border-pink-100">
         <div class="max-w-5xl mx-auto px-4 py-4 flex justify-between items-center">
             <div class="text-xl font-bold tracking-wider text-[#FFB7C5] serif">Spring HCD</div>
-            <div class="flex items-center gap-3">
-                <button class="bg-[#FFB7C5] text-white px-5 py-2 rounded-full text-sm hover:bg-[#FF9AAA] transition-colors shadow-sm font-medium">참석 응답하기</button>
-            </div>
         </div>
     </nav>
 
@@ -111,7 +108,7 @@
                     <div class="text-6xl mb-6">🌿</div>
                     <h3 class="text-2xl font-bold mb-4">장소</h3>
                     <p class="text-2xl text-[#2E8B57] font-bold">안양교회 교육관</p>
-                    <p class="text-gray-500 mt-2 text-lg italic">사랑과 기쁨이 넘치는 재회의 장소</p>
+                    <p class="text-gray-500 mt-2 text-lg">안양시 만안구 삼막로96번길 83</p>
                 </div>
             </div>
 
